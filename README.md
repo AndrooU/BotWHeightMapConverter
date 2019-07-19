@@ -9,7 +9,6 @@ Requirements:
 * wszst and sarc must be added to PATH for the included batch file to work
 
 Setup Instructions:
-
 Move the included batch file to your BotW Files in content/Terrain/A/MainField
 and run it to decode and extract all .hght files. Move the generated 'terrain'
 folder to the same directory as generate_map.py and gen_map_gui.py. (The batch
