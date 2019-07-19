@@ -9,6 +9,7 @@ Requirements:
 * wszst and sarc must be added to PATH for the included batch file to work
 
 Setup Instructions:
+
 Move the included batch file to your BotW Files in content/Terrain/A/MainField
 and run it to decode and extract all .hght files. Move the generated 'terrain'
 folder to the same directory as generate_map.py and gen_map_gui.py. (The batch
@@ -16,6 +17,7 @@ file will take several minutes to complete, and unpack about 1.1 GB worth of
 files)
 
 Tool Usage:
+
 Open a command prompt or powershell in the folder containing gen_map_gui.py and 
 run "python gen_map_gui.py". Use the slider to select which level of detail you 
 would like to use from zero as the entire map, and each LOD as 4^x map sections. 
