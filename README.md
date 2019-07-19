@@ -1,5 +1,5 @@
 # BotWHeightMapConverter
-Tool to easily obtain terrain height maps for use outside BotW.
+Tool to easily obtain terrain height maps as a 16 bit grayscale png for use outside BotW.
 
 
 Requirements:
