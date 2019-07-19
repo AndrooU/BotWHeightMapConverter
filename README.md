@@ -3,6 +3,7 @@ Tool to easily obtain terrain height maps as a 16 bit grayscale png for use outs
 
 
 Requirements:
+- 64bit python
 - wszst     (https://szs.wiimm.de/wszst/)
 - sarc      (https://pypi.org/project/sarc/)
 - pillow    (https://pypi.org/project/Pillow/)
