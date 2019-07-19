@@ -25,10 +25,10 @@ can change the LOD again or click generate to output a 16 bit depth grayscale
 PNG file of the chosen region
 
 Other Information:
-ｷ Each map section is 256x256 pixels
-ｷ Generating the full LOD 8 map uses roughly 8 GB of RAM, so be careful with
+- Each map section is 256x256 pixels
+- Generating the full LOD 8 map uses roughly 8 GB of RAM, so be careful with
 larger LODs.
 
 Credit:
-~ generate_map.py and Run This In Terrain A MainField.bat - Aaaboy97 2019
-~ gen_map_gui.py - toffeenose and Nomen Usoris 2019
+- generate_map.py and Run This In Terrain A MainField.bat - Aaaboy97 2019
+- gen_map_gui.py - toffeenose and Nomen Usoris 2019
